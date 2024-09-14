@@ -17,7 +17,7 @@ A Flutter application that allows users to generate and save QR codes from input
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/HossamElbesh/QrCodeGen.git
+   git clone https://github.com/HossamElbesh/QrCodeGen-App.git
 
 A few resources to get you started if this is your first Flutter project:
 
